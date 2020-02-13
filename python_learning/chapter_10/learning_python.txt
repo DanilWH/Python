@@ -1,0 +1,3 @@
+In Python you can write a program in several lines of code.
+In Python you can work in any field of development, whether it's games, web applications or program interface.
+In Python you can automate the process.

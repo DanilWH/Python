@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+{% extends 'pizzas/base.html' %}
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+    {% block content %}
+      <p>Toping by: {{pizza}}</p>
+      <ul>
+        {% for toping in topings %}
+          <li>{{toping}}</li>
+        {% empty %}
+          <p>Available topings is not yet!</p>
+        {% endfor %}
+      </ul>
+    {% endblock content %}
+  </body>
+</html>
