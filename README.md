@@ -18,4 +18,8 @@ in that folder:
      data analisys, games and other console scripts in the folder.)
     *my_python_studies* - When I learned about new interesting things about python
      I tested them in the python files and saved them in *my_python_studies*.
- 
+
+# Learning Log
+
+A web-application. One of the book projects. **Learning Log** tracks whatever you learn (journaling). The site is written on Django python framework.
+Here's the link on that: https://learning-log-tbs.herokuapp.com
